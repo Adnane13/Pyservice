@@ -1,1 +1,4 @@
-print("hello Adnane, this is working nice")
+def start():
+  print("hello Adnane, this is working nice")
+
+
